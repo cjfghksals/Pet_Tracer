@@ -8,4 +8,4 @@
 ![앱스크린](https://github.com/cjfghksals/Pet_Tracer/assets/95117186/fc6ef5a4-01c8-4ded-a58c-fdc64266fe73)
 
 # 앱 실행 모습
-![Uploading 펫앱실행모습.jpeg…]()
+![펫앱실행모습](https://github.com/cjfghksals/Pet_Tracer/assets/95117186/0f0983e5-2388-49cc-a973-3e7d346e5ba6)
